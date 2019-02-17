@@ -1,0 +1,21 @@
+id: ID
+battery_power: Total energy a battery can store in one time measured in mAh
+bluetooth: Has bluetooth or not
+clock_speed: speed at which microprocessor executes instructions
+dual_sim: Has dual sim support or not
+front_camera: Front Camera mega pixels
+four_g: Has 4G or not
+internal_memory: Internal Memory in Gigabytes
+depth: Mobile Depth in cm
+width: Weight of mobile phone
+n_cores: Number of cores of processor
+primary_camera: Primary Camera mega pixels
+px_height: Pixel Resolution Height
+px_width: Pixel Resolution Width
+ram: Random Access Memory in Megabytes
+screen_height: Screen Height of mobile in cm
+screen_width: Screen Width of mobile in cm
+talk_time: longest time that a single battery charge will last when you are
+three_g: Has 3G or not
+touch_screen: Has touch screen or not
+wifi: Has wifi or not
