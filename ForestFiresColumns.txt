@@ -1,3 +1,7 @@
+Dataset with meteorological and other data as well as the burned area of forest fires in the northeast region of Portugal.
+Source: https://archive.ics.uci.edu/ml/datasets/forest+fires
+
+Columns:
 X: x-axis spatial coordinate within the Montesinho park map: 1 to 9
 Y: y-axis spatial coordinate within the Montesinho park map: 2 to 9
 month: month of the year: "jan" to "dec" 

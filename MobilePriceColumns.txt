@@ -1,3 +1,7 @@
+Dataset with characteristics of mobile phones and phone prices.
+Source: https://www.kaggle.com/iabhishekofficial/mobile-price-classification
+Unlike the original dataset from the link above, here the ``price_range`` column is binary. In the original dataset, it has 4 classes.
+
 id: ID
 battery_power: Total energy a battery can store in one time measured in mAh
 bluetooth: Has bluetooth or not
