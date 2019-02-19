@@ -1,0 +1,12 @@
+Dataset of three wheat varieties and their characteristics.
+Source: https://archive.ics.uci.edu/ml/datasets/seeds
+
+Columns:
+area (A)
+perimeter (P)
+compactness, C = 4*pi*A/P^2
+length: length of the kernel
+width: width of the kernel
+asymmetry: asymmetry coefficient 
+groove_length: length of kernel groove
+variety: wheat variety: Kama, Rosa or Canadian, 70 elements each
