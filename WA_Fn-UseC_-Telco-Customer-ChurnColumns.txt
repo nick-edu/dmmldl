@@ -1,0 +1,18 @@
+Dataset of customer churn data of a telecom company
+Source: https://www.kaggle.com/blastchar/telco-customer-churn
+
+Columns:
+customerID
+gender: Male or Female
+SeniorCitizen: 1 if senior citizen, 0 if not
+Partner: Yes if the customer has a partner, No if not
+Dependents: Yes if the customer has dependents, No if not
+tenure: number of months with the company
+PhoneService: Yes if the customer has phone service, No if not
+MultipleLines: Yes if the customer has multiple phone lines, No if single line, No phone service if no phone service
+InternetService: customer's internet service provider
+OnlineSecurity: Yes if the customer has online security, No if not, No phone service if no phone service
+...
+MonthlyCharges: amount charged to the customer monthly
+TotalCharges: total amount charged to customer
+Churn: Yes if the customer left the company, No if not
